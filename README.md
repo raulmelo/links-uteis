@@ -74,7 +74,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 
 ## Ajude nós
 Envie suas sugestões  de links que são uma mão na roda.
-[Clique aqui](https://github.com/raulmelo/links-uteis/issues), use a label de sugestão
+[Clique aqui](https://github.com/raulmelo/links-uteis/issues).
 
 
 
