@@ -1,10 +1,6 @@
-# Welcome to StackEdit!
+# Frontend Tools 
 
-
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-# Links úteis dia dia
+Links de ferramentas e conteúdos úteis para desenvolvedores.
 
 
 
@@ -44,6 +40,18 @@
 |Git ignore |⭐ https://www.gitignore.io/|
 
 
+## Awesome da comunidade
+|   |  |
+|--|--|
+|  SVG |⭐ [willianjusten](https://github.com/willianjusten/awesome-svg)  |
+|BEM CSS| [sturobson](https://github.com/sturobson/BEM-resources#readme)|
+|Javascripts e plugins js|[sorrycc](https://github.com/sorrycc/awesome-javascript)|
+|Vue.js|⭐[vuejs](https://github.com/vuejs/awesome-vue)|
+|React|[anaqx](https://github.com/enaqx/awesome-react)|
+|Práticas css|⭐[css-protips](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)|
+|Design úteis|⭐[gztchan](https://github.com/gztchan/awesome-design)|
+
+
 ## Links úteis   Frontend
 
 
@@ -56,12 +64,19 @@
 |Links úteis|[allthefreestock](https://allthefreestock.com/ "allthefreestock")|
 |Gera imagem de código |⭐[carbon](https://carbon.now.sh/ "carbon")|
 
+## Outros repositorios de links
+
+|  | |
+|--|--|
+|dypsilon|[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)|
+|bayandin|⭐[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|
 
 
-## Framework 
+## Ajude nós
+Envie suas sugestões  de links que são uma mão na roda.
+[Clique aqui](https://github.com/raulmelo/links-uteis/issues), use a label de sugestão
 
-|  Descrição | Link   |
-| ------------ | ------------ |
-| Link de varios Framework em um repositorio  | [awesome-design-systems](https://github.com/alexpate/awesome-design-systems "awesome-design-systems")  |
+
+
 
 
