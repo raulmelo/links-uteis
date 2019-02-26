@@ -65,7 +65,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |Gera imagem de código |[carbon](https://carbon.now.sh/ "carbon") ⭐|
 
 ## inspiração para animações web
-
+|  | |
 |------------|--------------|
 |Animações Mobile| [johnyvino](https://johnyvino.webflow.io)|
 
