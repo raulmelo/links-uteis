@@ -64,6 +64,13 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |Links úteis|[allthefreestock](https://allthefreestock.com/ "allthefreestock")|
 |Gera imagem de código |[carbon](https://carbon.now.sh/ "carbon") ⭐|
 
+## inspiração para animações web
+
+|------------|--------------|
+|Animações Mobile| [johnyvino](https://johnyvino.webflow.io)|
+
+
+
 ## Outros repositorios de links
 
 |  | |
