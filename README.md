@@ -77,6 +77,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |--|--|
 |dypsilon|[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)|
 |bayandin|[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐|
+|Dicas de escrever melhor VUE.js | [pablohpsilva](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-PTBR.md) | 
 
 
 ## Ajude nós
