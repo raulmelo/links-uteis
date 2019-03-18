@@ -65,6 +65,14 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |Links úteis|[allthefreestock](https://allthefreestock.com/ "allthefreestock")|
 |Gera imagem de código |[carbon](https://carbon.now.sh/ "carbon") ⭐|
 
+## Plugins js para animação 
+
+| Descrição | Link  |
+|--|--|
+| Parallax objetos| [alexfoxy](https://github.com/alexfoxy/laxxx) |
+
+
+
 ## inspiração para animações web
 |  | |
 |------------|--------------|
