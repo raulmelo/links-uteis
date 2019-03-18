@@ -18,6 +18,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |--|--|
 | Cria um fonte com vários ícones  | [fontello](http://fontello.com/)  ⭐|
 |Varios pack de ícones|[icomoon.io](https://icomoon.io/) ⭐|
+|Pacote de ícones |[feathericons](https://feathericons.com/)|
 |Font awesome|[fontawesome.com](https://fontawesome.com/?from=io)|
 |Visualize as fontes do google|[fontcdn](https://fontcdn.org/ "fontcdn")|
 
