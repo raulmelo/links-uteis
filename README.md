@@ -9,6 +9,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |Descrição  | Link|
 |---------|-------|
 |Animações|[cssanimate](http://cssanimate.com/)  |
+|Animação keyframes |[jeremyckahn](https://jeremyckahn.github.io/stylie/)  |
 |Gradiente| [colorzilla](http://www.colorzilla.com/gradient-editor/)|
 |Gradiente randomico|[uigradients](https://uigradients.com/) ⭐|
 |Estilos de botões em|[bttn.css](https://bttn.surge.sh/) ⭐|
