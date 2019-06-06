@@ -98,6 +98,17 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |bayandin|[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐|
 |Dicas de escrever melhor VUE.js | [pablohpsilva](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-PTBR.md) | 
 
+## Gerador de API para Mock 
+|  | |
+|--|--|
+| Api para Post, GET  |[postKit](https://postkit.io/uH75RkjU) ⭐|
+| Gera api com Excel apenas GET  |[sheetsu](https://sheetsu.com/dashboard) |
+| Gera api usando git apenas GET  |[apiwithgithub](https://apiwithgithub.com/) |
+| Gera api usando Excel muito conhecito  |[sheety](https://sheety.co/) |
+
+
+
+
 
 ## Ajude nós
 Envie suas sugestões  de links que são uma mão na roda.
