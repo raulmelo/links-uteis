@@ -19,9 +19,10 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |--|--|
 | Cria um fonte com vários ícones  | [fontello](http://fontello.com/)  ⭐|
 |Varios pack de ícones|[icomoon.io](https://icomoon.io/) ⭐|
-
 |Font awesome|[fontawesome.com](https://fontawesome.com/?from=io)|
 |Visualize as fontes do google|[fontcdn](https://fontcdn.org/ "fontcdn")|
+
+
 
 ## Pack ícones ou SVG  
 
@@ -30,6 +31,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |--|--|
 | ícones SVG |[feathericons](https://feathericons.com/)|
 | ícones SVG |[iconsvg](https://iconsvg.xyz/)|
+| ícones SVG |[ikonate](https://www.ikonate.com)|
 
 
 
