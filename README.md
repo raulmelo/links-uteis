@@ -38,7 +38,14 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |---------------------------------|-----------------------|
 | Url de imagens | [lorempixel](http://lorempixel.com/) |
 |Placehold |[placehold](http://placehold.it/)|
-|Rostos |[uifaces](http://uifaces.com/)|
+
+
+#### Imagens grátis 
+| Descrição  | Link |
+|---------------------------------|-----------------------|
+| Alta resolução   | [pexel](https://www.pexels.com/) |
+|Rostos de pessoas |[uifaces](http://uifaces.com/)|
+
 
 
 ## Generate tools Online
