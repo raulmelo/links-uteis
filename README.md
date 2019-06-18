@@ -1,3 +1,4 @@
+
 # Frontend Tools 
 
 Links de ferramentas e conteúdos úteis para desenvolvedores.
@@ -54,7 +55,6 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | descrição| Link  |
 |--|--|
 |Loading css, svg e gif|[loading.io](https://loading.io/) ⭐|
-|Favicon e manifest.json    | [realfavicongenerator](https://realfavicongenerator.net/)  ⭐|
 |Baixar fonte do google|[google-webfonts-helper](https://google-webfonts-helper.herokuapp.com/fonts)| 
 |Converte fontes para web | https://transfonter.org/|
 |Git ignore |[gitignore](https://www.gitignore.io/)  ⭐|
@@ -106,6 +106,15 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |dypsilon|[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)|
 |bayandin|[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐|
 |Dicas de escrever melhor VUE.js | [pablohpsilva](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-PTBR.md) | 
+
+## PWA  e Mobile App
+|  | |
+|--|--|
+|Favicon e manifest.json    | [realfavicongenerator](https://realfavicongenerator.net/)  ⭐| 
+| Preencher Manifest.json  | [tomitm]([https://tomitm.github.io/appmanifest/](https://tomitm.github.io/appmanifest/)) | 
+| Funções nativa do celular para web | [whatwebcando](https://whatwebcando.today/) |  
+
+
 
 ## Gerador de API para Mock 
 |  | |
