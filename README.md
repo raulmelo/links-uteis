@@ -110,8 +110,8 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 ## PWA  e Mobile App
 |  | |
 |--|--|
-|Favicon e manifest.json    | [realfavicongenerator](https://realfavicongenerator.net/)  ⭐| 
-| Preencher Manifest.json  | [tomitm]([https://tomitm.github.io/appmanifest/](https://tomitm.github.io/appmanifest/)) | 
+|Favicon e manifest.json | [realfavicongenerator](https://realfavicongenerator.net/)  ⭐| 
+| Preencher Manifest.json  | [tomitm](https://tomitm.github.io/appmanifest/) |
 | Funções nativa do celular para web | [whatwebcando](https://whatwebcando.today/) |  
 
 
@@ -131,8 +131,4 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 ## Ajude nós
 Envie suas sugestões  de links que são uma mão na roda.
 [Clique aqui](https://github.com/raulmelo/links-uteis/issues).
-
-
-
-
 
