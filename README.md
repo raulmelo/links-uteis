@@ -83,6 +83,11 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |Tympanus|[tympanus.net](https://tympanus.net/codrops/ "tympanus.net")|
 |Links úteis|[allthefreestock](https://allthefreestock.com/ "allthefreestock")|
 |Gera imagem de código |[carbon](https://carbon.now.sh/ "carbon") ⭐|
+|Macetes com CSS utéis  |[30-seconds](https://30-seconds.github.io/30-seconds-of-css/#grid-centering) ⭐|
+
+
+
+
 
 ## Plugins js para animação 
 
