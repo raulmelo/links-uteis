@@ -28,11 +28,13 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 ## Pack ícones ou SVG  
 
 
-| Descrição | link  |
+| tipo | link  |
 |--|--|
-| ícones SVG |[feathericons](https://feathericons.com/)|
-| ícones SVG |[iconsvg](https://iconsvg.xyz/)|
-| ícones SVG |[ikonate](https://www.ikonate.com)|
+| SVG |[feathericons](https://feathericons.com/)|
+| SVG |[iconsvg](https://iconsvg.xyz/)|
+| SVG |[ikonate](https://www.ikonate.com)|
+| Fonte |[themify](https://themify.me/themify-icons)|
+
 
 
 
