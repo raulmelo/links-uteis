@@ -34,6 +34,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | SVG |[iconsvg](https://iconsvg.xyz/)|
 | SVG |[ikonate](https://www.ikonate.com)|
 | Fonte |[themify](https://themify.me/themify-icons)|
+| SVG |[iconshock](https://www.iconshock.com/svg-color/)|
 
 
 
