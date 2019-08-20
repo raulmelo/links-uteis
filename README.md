@@ -1,11 +1,12 @@
 
+
 # Frontend Tools 
 
 Links de ferramentas e conteúdos úteis para desenvolvedores.
 
 
 
-## Generate css Online
+## Css Online
 
 |Descrição  | Link|
 |---------|-------|
@@ -15,7 +16,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |Gradiente randomico|[uigradients](https://uigradients.com/) ⭐|
 |Estilos de botões em|[bttn.css](https://bttn.surge.sh/) ⭐|
 
-## Generate ícone ou fontes Online
+##  ícone ou fontes Online
 | Descrição | link  |
 |--|--|
 | Cria um fonte com vários ícones  | [fontello](http://fontello.com/)  ⭐|
@@ -25,7 +26,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 
 
 
-## Pack ícones ou SVG  
+## Pacotes ícones ou SVG  
 
 
 | tipo | link  |
@@ -36,25 +37,17 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | Fonte |[themify](https://themify.me/themify-icons)|
 | SVG |[iconshock](https://www.iconshock.com/svg-color/)|
 
-
-
-
-## Generate Imagens Online
-| Descrição  | Link |
-|---------------------------------|-----------------------|
-| Url de imagens | [lorempixel](http://lorempixel.com/) |
-|Placehold |[placehold](http://placehold.it/)|
-
-
-#### Imagens grátis 
+## Imagens  
 | Descrição  | Link |
 |---------------------------------|-----------------------|
 | Alta resolução   | [pexel](https://www.pexels.com/) |
 |Rostos de pessoas |[uifaces](http://uifaces.com/)|
+| Url de imagens | [lorempixel](http://lorempixel.com/) |
+|Placehold |[placehold](http://placehold.it/)|
 
 
 
-## Generate tools Online
+## Tools Online
 | descrição| Link  |
 |--|--|
 |Loading css, svg e gif|[loading.io](https://loading.io/) ⭐|
@@ -124,7 +117,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 
 
 
-## Gerador de API para Mock 
+##  API para Mock 
 |  | |
 |--|--|
 | Api para Post, GET  |[postKit](https://postkit.io/uH75RkjU) ⭐|
@@ -133,6 +126,13 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | Gera api usando Excel muito conhecito  |[sheety](https://sheety.co/) |
 | Gera api usando Excel com crud - limit de 500/mês requisições |[sheetdb](https://sheetdb.io/?ref=producthunt) |
 
+
+## Tailwind CSS
+|  | |
+|--|--|
+| Cria páginas simples |[postKit](stitches) |
+| Gerador cores | [javisperez]([https://javisperez.github.io/tailwindcolorshades]) |
+| Vscode plugin | [Tailwind CSS IntelliSense ](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) |
 
 
 
