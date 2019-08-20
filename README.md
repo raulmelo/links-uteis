@@ -131,7 +131,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |  | |
 |--|--|
 | Cria páginas simples |[postKit](stitches) |
-| Gerador cores | [javisperez]([https://javisperez.github.io/tailwindcolorshades]) |
+| Gerador cores | [javisperez](https://javisperez.github.io/tailwindcolorshades) |
 | Vscode plugin | [Tailwind CSS IntelliSense ](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) |
 
 
