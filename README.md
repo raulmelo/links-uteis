@@ -120,11 +120,10 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 ##  API para Mock 
 |  | |
 |--|--|
-| Api para Post, GET  |[postKit](https://postkit.io/uH75RkjU) ⭐|
 | Gera api com Excel apenas GET  |[sheetsu](https://sheetsu.com/dashboard) |
 | Gera api usando git apenas GET  |[apiwithgithub](https://apiwithgithub.com/) |
 | Gera api usando Excel muito conhecito  |[sheety](https://sheety.co/) |
-| Gera api usando Excel com crud - limit de 500/mês requisições |[sheetdb](https://sheetdb.io/?ref=producthunt) |
+| CRUD api MOCK |jsonbin](https://jsonbin.io/) ⭐|
 
 
 ## Tailwind CSS
