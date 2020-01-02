@@ -135,10 +135,12 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | Todos as classes | [cheat-sheet](https://nerdcave.com/tailwind-cheat-sheet) |
 | Vscode plugin | [Tailwind CSS IntelliSense ](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) |
 
-## Design Tools
+## Cores e paletas 
 |  | |
 |--|--|
 | Gerar paleta de cores |[mycolor](https://mycolor.space) |
+| Utilitarios de cores  ⭐|[colorsinspo](https://colorsinspo.com/color-tools/games/guess-the-next-color) |
+
 
 
 
