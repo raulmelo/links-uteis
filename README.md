@@ -91,8 +91,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | Descrição | Link  |
 |--|--|
 | Parallax objetos| [alexfoxy](https://github.com/alexfoxy/laxxx) |
-
-
+| Elementos em curvas | [slurvejs](https://www.slurvejs.com) |
 
 ## inspiração para animações web
 |  | |
