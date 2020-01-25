@@ -37,6 +37,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | SVG |[ikonate](https://www.ikonate.com)|
 | Fonte |[themify](https://themify.me/themify-icons)|
 | SVG |[iconshock](https://www.iconshock.com/svg-color/)|
+| SVG pacote gradiente |[iconshock](https://www.iconshock.com/svg-icons/)|
 
 ## Imagens  
 | Descrição  | Link |
