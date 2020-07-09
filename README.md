@@ -44,7 +44,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | Descrição  | Link |
 |---------------------------------|-----------------------|
 | Alta resolução   | [pexel](https://www.pexels.com/) |
-|Rostos de pessoas |[uifaces](http://uifaces.com/)|
+| Rostos de pessoas |[generated faces](https://generated.photos/faces)|
 | Url de imagens | [lorempixel](http://lorempixel.com/) |
 |Placehold |[placehold](http://placehold.it/)|
 
