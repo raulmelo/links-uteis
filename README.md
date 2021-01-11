@@ -60,33 +60,17 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 
 
 
-## Links úteis   Frontend
-
+## Sites para Favoritar   Frontend
 
 | Descrição | Link  |
 |--|--|
 | Exemplos de códigos html, css e js| [freefrontend](https://freefrontend.com/) |
 |Links úteis |[thestarterkit](https://www.thestarterkit.info/ "thestarterkit")|
-|Links úteis|[wwwhere.io](http://wwwhere.io/ "wwwhere.io")|
-|Tympanus|[tympanus.net](https://tympanus.net/codrops/ "tympanus.net")|
 |Links úteis|[allthefreestock](https://allthefreestock.com/ "allthefreestock")|
+|Links úteis|[wwwhere.io](http://wwwhere.io/ "wwwhere.io")|
 |Gera imagem de código |[carbon](https://carbon.now.sh/ "carbon") ⭐|
-|Macetes com CSS utéis  |[30-seconds](https://30-seconds.github.io/30-seconds-of-css/#grid-centering) ⭐|
 
 
-
-
-
-
-
-
-## Outros repositorios de links
-
-|  | |
-|--|--|
-|dypsilon|[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)|
-|bayandin|[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐|
-|Dicas de escrever melhor VUE.js | [pablohpsilva](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-PTBR.md) | 
 
 ## PWA  e Mobile App
 |  | |
@@ -122,7 +106,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | Gerar paleta de cores |[mycolor](https://mycolor.space) |
 | Utilitarios de cores  |[colorsinspo](https://colorsinspo.com/color-tools/games/guess-the-next-color) ⭐ |
 
-## Recursos grâtis
+## Recursos grátis
 | | | 
 |-- |-- | 
 | Publicação sites estaticos  | [Surge.sh](https://surge.sh/) ⭐ | 
