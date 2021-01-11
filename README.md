@@ -29,16 +29,15 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 
 
 ## Pacotes ícones ou SVG  
-
-
 | tipo | link  |
 |--|--|
-| SVG |[feathericons](https://feathericons.com/)|
-| SVG |[iconsvg](https://iconsvg.xyz/)|
-| SVG |[ikonate](https://www.ikonate.com)|
+| Pacote SVG |[feathericons](https://feathericons.com/)|
+| Pacote SVG |[iconsvg](https://iconsvg.xyz/)|
+| Pacote SVG |[ikonate](https://www.ikonate.com)|
 | Fonte |[themify](https://themify.me/themify-icons)|
 | SVG |[iconshock](https://www.iconshock.com/svg-color/)|
 | SVG pacote gradiente |[iconshock](https://www.iconshock.com/svg-icons/)|
+| Svg animados com Lottie | [useanimations](https://useanimations.com/#explore)
 
 ## Imagens  
 | Descrição  | Link |
@@ -59,16 +58,6 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |Git ignore |[gitignore](https://www.gitignore.io/)  ⭐|
 
 
-## Awesome da comunidade
-|   |  |
-|--|--|
-|  SVG |[willianjusten](https://github.com/willianjusten/awesome-svg) ⭐|
-|BEM CSS| [sturobson](https://github.com/sturobson/BEM-resources#readme)|
-|Javascripts e plugins js|[sorrycc](https://github.com/sorrycc/awesome-javascript)|
-|Vue.js|[vuejs](https://github.com/vuejs/awesome-vue) ⭐|
-|React|[anaqx](https://github.com/enaqx/awesome-react)|
-|Práticas css|[css-protips](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR) ⭐|
-|Design úteis|[gztchan](https://github.com/gztchan/awesome-design) ⭐|
 
 
 ## Links úteis   Frontend
@@ -88,17 +77,6 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 
 
 
-## Plugins js para animação 
-
-| Descrição | Link  |
-|--|--|
-| Parallax objetos| [alexfoxy](https://github.com/alexfoxy/laxxx) |
-| Elementos em curvas | [slurvejs](https://www.slurvejs.com) |
-
-## inspiração para animações web
-|  | |
-|------------|--------------|
-|Animações Mobile| [johnyvino](https://johnyvino.webflow.io)|
 
 
 
@@ -132,17 +110,29 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |  | |
 |--|--|
 | Cria páginas simples |[postKit](stitches) |
-| Gerador cores | [javisperez](https://javisperez.github.io/tailwindcolorshades) |
+| Gerador cores | [javisperez](https://javisperez.github.io/tailwindcolorshades) ⭐ |
 | Todos as classes | [cheat-sheet](https://nerdcave.com/tailwind-cheat-sheet) |
 | Escrever e compartilhar código | [tailwind playground](https://play.tailwindcss.com/?ref=producthunt)|
 | Vscode plugin | [Tailwind CSS IntelliSense ](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) |
+| Escrever tailwindcss online sem IDE | [pay.tailwindcss](https://play.tailwindcss.com/?ref=producthunt)
 
 ## Cores e paletas 
 |  | |
 |--|--|
 | Gerar paleta de cores |[mycolor](https://mycolor.space) |
-| Utilitarios de cores  ⭐|[colorsinspo](https://colorsinspo.com/color-tools/games/guess-the-next-color) |
+| Utilitarios de cores  |[colorsinspo](https://colorsinspo.com/color-tools/games/guess-the-next-color) ⭐ |
 
+## Recursos grâtis
+| | | 
+|-- |-- | 
+| Publicação sites estaticos  | [Surge.sh](https://surge.sh/) ⭐ | 
+
+
+## React Utils
+| | | 
+|-|-|
+|Dicas usando react Hook | [useHook](https://usehooks.com/)  ⭐|
+| cheatsheet para React | [devHints](https://devhints.io/react)  ⭐ |   
 
 
 
