@@ -53,6 +53,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 ## Tools Online
 | descrição| Link  |
 |--|--|
+| Texto, imagem e vídeo em lorem | [ipsm.io](https://ipsm.io/)
 |Loading css, svg e gif|[loading.io](https://loading.io/) ⭐|
 |Baixar fonte do google|[google-webfonts-helper](https://google-webfonts-helper.herokuapp.com/fonts)| 
 |Converte fontes para web | https://transfonter.org/|
