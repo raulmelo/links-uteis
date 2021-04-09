@@ -113,14 +113,17 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |-- |-- | 
 | Publicação sites estaticos  | [Surge.sh](https://surge.sh/) ⭐ | 
 
+## SEO
+| | | 
+|-- |-- | 
+| pré-visualizar Meta tags  | [https://metatags.io/](https://metatags.io/) ⭐ | 
+
 
 ## React Utils
 | | | 
 |-|-|
 |Dicas usando react Hook | [useHook](https://usehooks.com/)  ⭐|
 | cheatsheet para React | [devHints](https://devhints.io/react)  ⭐ |   
-
-
 
 
 
