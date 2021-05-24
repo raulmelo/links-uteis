@@ -77,7 +77,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 ## PWA  e Mobile App
 |  | |
 |--|--|
-|Favicon e manifest.json | [realfavicongenerator](https://realfavicongenerator.net/)  ⭐| 
+| Favicon e manifest.json | [realfavicongenerator](https://realfavicongenerator.net/)  ⭐| 
 | Preencher Manifest.json  | [tomitm](https://tomitm.github.io/appmanifest/) |
 | Funções nativa do celular para web | [whatwebcando](https://whatwebcando.today/) |  
 
@@ -113,6 +113,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |-- |-- | 
 | Publicação sites estaticos  | [Surge.sh](https://surge.sh/) ⭐ | 
 
+
 ## SEO
 | | | 
 |-- |-- | 
@@ -125,6 +126,10 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |Dicas usando react Hook | [useHook](https://usehooks.com/)  ⭐|
 | cheatsheet para React | [devHints](https://devhints.io/react)  ⭐ |   
 
+## Boas Práticas
+| | | 
+|-|-|
+| CSS BEM | [BEM Cheat sheet](https://9elements.com/bem-cheat-sheet/) |
 
 
 ## Ajude nós
