@@ -100,7 +100,8 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | Todos as classes | [cheat-sheet](https://nerdcave.com/tailwind-cheat-sheet) |
 | Escrever e compartilhar código | [tailwind playground](https://play.tailwindcss.com/?ref=producthunt)|
 | Vscode plugin | [Tailwind CSS IntelliSense ](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) |
-| Escrever tailwindcss online sem IDE | [pay.tailwindcss](https://play.tailwindcss.com/?ref=producthunt)
+| Escrever tailwindcss online sem IDE | [pay.tailwindcss](https://play.tailwindcss.com/?ref=producthunt) | 
+| Elementos prontos com Tailwindcss | [blocks.wickedtemplates](https://blocks.wickedtemplates.com/) | 
 
 ## Cores e paletas 
 |  | |
