@@ -71,6 +71,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |Links úteis|[allthefreestock](https://allthefreestock.com/ "allthefreestock")|
 |Links úteis|[wwwhere.io](http://wwwhere.io/ "wwwhere.io")|
 |Gera imagem de código |[carbon](https://carbon.now.sh/ "carbon") ⭐|
+|Varios links de pacotes para design e frontends |[akshay](https://www.akshay.rocks/resources "akshay") ⭐|
 
 
 
