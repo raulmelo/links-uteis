@@ -40,6 +40,11 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | SVG pacote gradiente |[iconshock](https://www.iconshock.com/svg-icons/)|
 | Svg animados com Lottie | [useanimations](https://useanimations.com/#explore)
 
+## Biblioteca de illustrações
+| tipo | link  |
+|--|--|
+| Illustrações SVG  | [storyset](https://storyset.com/)|
+
 ## Imagens  
 | Descrição  | Link |
 |---------------------------------|-----------------------|
