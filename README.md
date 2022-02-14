@@ -77,7 +77,6 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |Links úteis|[wwwhere.io](http://wwwhere.io/ "wwwhere.io")|
 |Gera imagem de código |[carbon](https://carbon.now.sh/ "carbon") ⭐|
 |Varios links de pacotes para design e frontends |[akshay](https://www.akshay.rocks/resources "akshay") ⭐|
-| Readmd | [readmd](https://readmd.itsvg.in/create) |
 
 
 ## PWA  e Mobile App
@@ -131,7 +130,14 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | | | 
 |-|-|
 |Dicas usando react Hook | [useHook](https://usehooks.com/)  ⭐|
-| cheatsheet para React | [devHints](https://devhints.io/react)  ⭐ |   
+| cheatsheet para React | [devHints](https://devhints.io/react)  ⭐ |  
+
+## Readme.md Utils
+| | | 
+|-|-|
+| Readmd | [readmd](https://readmd.itsvg.in/create) |
+| Gerar Badges  | [badgen.net](https://badgen.net/) | 
+| 150+ Badges for GitHub  | [150-badges-for-github-pnk](https://dev.to/envoy_/150-badges-for-github-pnk) | 
 
 ## Boas Práticas
 | | | 
