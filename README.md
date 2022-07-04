@@ -124,13 +124,15 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | | | 
 |-- |-- | 
 | pré-visualizar Meta tags  | [https://metatags.io/](https://metatags.io/) ⭐ | 
+| pré-visualizar Meta tags Social  | [linkpreview.io](https://www.linkpreview.io/) ⭐ | 
+
 
 
 ## React Utils
 | | | 
 |-|-|
-|Dicas usando react Hook | [useHook](https://usehooks.com/)  ⭐|
-| cheatsheet para React | [devHints](https://devhints.io/react)  ⭐ |  
+|Dicas usando react Hook | [useHook](https://usehooks.com/) |
+| cheatsheet para React  | [devHints](https://devhints.io/react)  ⭐ |  
 
 ## Readme.md Utils
 | | | 
