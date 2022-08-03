@@ -45,6 +45,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | tipo | link  |
 |--|--|
 | Illustrações SVG  | [storyset](https://storyset.com/)|
+| Background em SVG | [svgbackgrounds](https://rive.app/community/tag/TrimPaths/) | 
 
 ## Imagens  
 | Descrição  | Link |
@@ -86,6 +87,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | Favicon e manifest.json | [realfavicongenerator](https://realfavicongenerator.net/)  ⭐| 
 | Preencher Manifest.json  | [tomitm](https://tomitm.github.io/appmanifest/) |
 | Funções nativa do celular para web | [whatwebcando](https://whatwebcando.today/) |  
+| Ver o site em varios tamanhos do navegador | [everysize-app](https://everysize-app.kibalabs.com/?url=https%3A%2F%2Fwww.escolhacertabb.com.br%2F) | 
 
 
 
@@ -126,6 +128,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |-- |-- | 
 | pré-visualizar Meta tags  | [https://metatags.io/](https://metatags.io/) ⭐ | 
 | pré-visualizar Meta tags Social  | [linkpreview.io](https://www.linkpreview.io/) ⭐ | 
+| Encontre palavras chaves atuais no Google | [Trend.Google](https://trends.google.com/trends/hottrends/visualize?nrow=5&ncol=5&pn=p18) | 
 
 
 
