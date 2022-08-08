@@ -129,7 +129,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | pré-visualizar Meta tags  | [https://metatags.io/](https://metatags.io/) ⭐ | 
 | pré-visualizar Meta tags Social  | [linkpreview.io](https://www.linkpreview.io/) ⭐ | 
 | Encontre palavras chaves atuais no Google | [Trend.Google](https://trends.google.com/trends/hottrends/visualize?nrow=5&ncol=5&pn=p18) | 
-
+| check Seo site | [seobility](https://www.seobility.net/en/seocheck/) | 
 
 
 ## React Utils
