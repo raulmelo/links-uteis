@@ -27,6 +27,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |Visualize as fontes do google|[fontcdn](https://fontcdn.org/ "fontcdn")|
 |Site para baixar fontes e usar na web | [onlinewebfonts](https://www.onlinewebfonts.com/download/2d87be206e81000fd9cc47b84d06e9f6)|
 | ícones svg, React, vue e outros | [icones](https://icones.js.org/) | 
+| Gerator tipografia web | [fontjoy](https://fontjoy.com/) | 
 
 
 
