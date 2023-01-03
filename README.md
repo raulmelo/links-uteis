@@ -105,7 +105,8 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |  | |
 |--|--|
 | Cria páginas simples |[postKit](stitches) |
-| Gerador cores | [javisperez](https://javisperez.github.io/tailwindcolorshades) ⭐ |
+| Gerador cores | [javisperez](https://javisperez.github.io/tailwindcolorshades) |
+| Gerador cores | [uicolors](https://uicolors.app/create) ⭐ |
 | Todos as classes | [cheat-sheet](https://nerdcave.com/tailwind-cheat-sheet) |
 | Escrever e compartilhar código | [tailwind playground](https://play.tailwindcss.com/?ref=producthunt)|
 | Vscode plugin | [Tailwind CSS IntelliSense ](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) |
