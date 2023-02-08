@@ -140,6 +140,14 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |Dicas usando react Hook | [useHook](https://usehooks.com/) |
 | cheatsheet para React  | [devHints](https://devhints.io/react)  ⭐ |  
 
+
+
+## Design Tokens
+| | | 
+|-|-|
+| Generator tokens | [layoutit](https://tokens.layoutit.com/) |
+| Converte figma tokens para CSS  | [figmatokens2css](http://figmatokens2css.com/)  ⭐ |  
+
 ## Readme.md Utils
 | | | 
 |-|-|
