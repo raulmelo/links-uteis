@@ -163,6 +163,8 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | | | 
 |-|-|
 | Links frontend| [frontend-tools](https://github.com/GabrielaFonseca/frontend-tools) |
+| utils front| [smalldev](https://smalldev.tools) |
+
 
 
 
