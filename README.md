@@ -15,6 +15,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |Gradiente randomico|[uigradients](https://uigradients.com/) ⭐|
 |Estilos de botões em|[bttn.css](https://bttn.surge.sh/) ⭐|
 |Vários botões UI | [ui-buttons](https://github.com/ui-buttons/core) ⭐| 
+| Animações CSS | [CSS-loaders](https://css-loaders.com/classic/) ⭐ | 
 |Interações prontas de ícone menu, botão e setas | [raphaelfabeni/ui-interactions/](https://raphaelfabeni.com/ui-interactions/) |
 
 ##  ícone ou fontes Online
