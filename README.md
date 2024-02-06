@@ -17,6 +17,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 |Vários botões UI | [ui-buttons](https://github.com/ui-buttons/core) ⭐| 
 | Animações CSS | [CSS-loaders](https://css-loaders.com/classic/) ⭐ | 
 | Animações css Loaders | [uiBall](https://uiball.com/ldrs/) ⭐| 
+| UI CSS | [uiverse](https://uiverse.io/tooltips) ⭐ | 
 |Interações prontas de ícone menu, botão e setas | [raphaelfabeni/ui-interactions/](https://raphaelfabeni.com/ui-interactions/) |
 
 ##  ícone ou fontes Online
