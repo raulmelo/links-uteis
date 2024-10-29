@@ -172,6 +172,14 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 
 
 
+## AI
+| | | 
+|-|-|
+| Criar nomes/logos| [namelix](https://namelix.com) |
+
+
+
+
 ## Ajude nós
 Envie suas sugestões  de links que são uma mão na roda.
 [Clique aqui](https://github.com/raulmelo/links-uteis/issues).
