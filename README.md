@@ -161,6 +161,7 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | | | 
 |-|-|
 | Motion app | [appmotion](https://appmotion.design/) |
+| Componentes em shadcn | [21st](https://21st.dev/)
 
 ## Boas Práticas
 | | | 
