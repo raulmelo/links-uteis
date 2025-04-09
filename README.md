@@ -24,10 +24,10 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | Descrição | link  |
 |--|--|
 | Cria um fonte com vários ícones  | [fontello](http://fontello.com/)  ⭐|
-|Varios pack de ícones|[icomoon.io](https://icomoon.io/) ⭐|
-|Font awesome|[fontawesome.com](https://fontawesome.com/?from=io)|
-|Visualize as fontes do google|[fontcdn](https://fontcdn.org/ "fontcdn")|
-|Site para baixar fontes e usar na web | [onlinewebfonts](https://www.onlinewebfonts.com/download/2d87be206e81000fd9cc47b84d06e9f6)|
+| Varios pack de ícones|[icomoon.io](https://icomoon.io/) ⭐|
+| Font awesome|[fontawesome.com](https://fontawesome.com/?from=io)|
+| Visualize as fontes do google|[fontcdn](https://fontcdn.org/ "fontcdn")|
+| Site para baixar fontes e usar na web | [onlinewebfonts](https://www.onlinewebfonts.com/download/2d87be206e81000fd9cc47b84d06e9f6)|
 | ícones svg, React, vue e outros | [icones](https://icones.js.org/) | 
 | Gerator tipografia web | [fontjoy](https://fontjoy.com/) | 
 
@@ -163,10 +163,19 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | Motion app | [appmotion](https://appmotion.design/) |
 | Componentes em shadcn | [21st](https://21st.dev/)
 
+
+## Animações Web
+
+| | |
+|-|-|
+| Fancy components | [Fancy animations](https://www.fancycomponents.dev/) | 
+
+
 ## Boas Práticas
 | | | 
 |-|-|
 | CSS BEM | [BEM Cheat sheet](https://9elements.com/bem-cheat-sheet/) |
+
 
 ## Tools
 | | | 
