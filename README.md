@@ -171,6 +171,13 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | Fancy components | [Fancy animations](https://www.fancycomponents.dev/) | 
 
 
+
+## Uikit modernos
+| | |
+|-|-|
+| Fancy components | [scrollxui](https://www.scrollxui.dev/docs) | 
+
+
 ## Boas Práticas
 | | | 
 |-|-|
